@@ -1,6 +1,6 @@
 # Personalized Recipe Recommendations Website
 
-http://lacuisinedannie.20minutes.fr/headerca2.png
+![logo](http://lacuisinedannie.20minutes.fr/headerca2.png)
 
 This new (experimental) webapp allows to explore the delicious recipes of the French version of La Cuisine d'Annie website:
 
@@ -11,4 +11,6 @@ This new (experimental) webapp allows to explore the delicious recipes of the Fr
 - Discover personalized menus (not implemented yet)
 
 http://nicolasguillaume.pythonanywhere.com/tour
+
+![capture app](http://lacuisinedannie.20minutes.fr/headerca2.png)
 

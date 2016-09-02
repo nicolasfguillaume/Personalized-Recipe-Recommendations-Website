@@ -7,7 +7,7 @@ This new (experimental) webapp allows to explore the delicious recipes of the Fr
 - Filter recipes by season, dish type, meal, budget and more criteria
 - Discover similar recipes (with similar ingredients) across various dish types
 - Rate recipes, leave reviews and create a collection of favorite recipes
-- Discover recommended recipes that you are most likely to enjoy, based on your taste and ratings
+- Discover your recommended recipes, based on your taste (ratings)
 - Discover personalized menus (not implemented yet)
 
 Take a tour: http://nicolasguillaume.pythonanywhere.com/tour

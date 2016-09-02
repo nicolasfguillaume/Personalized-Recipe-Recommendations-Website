@@ -1,5 +1,7 @@
 # Personalized Recipe Recommendations Website
 
+http://lacuisinedannie.20minutes.fr/headerca2.png
+
 This new (experimental) webapp allows to explore the delicious recipes of the French version of La Cuisine d'Annie website:
 
 - Filter recipes by season, dish type, meal, budget and more criteria

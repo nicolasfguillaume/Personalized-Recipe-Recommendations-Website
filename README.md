@@ -14,7 +14,7 @@ Take a tour: http://nicolasguillaume.pythonanywhere.com/tour
 
 ![capture app](http://nicolasguillaume.pythonanywhere.com/static/tour/1.JPG)
 
-**Packages:**
+**Framework and packages:**
 
 - Python 2.7, Flask framework with MySQL database
 - Numpy, Pandas, Bokeh, Scikit-learn, NLTK

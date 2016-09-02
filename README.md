@@ -12,7 +12,7 @@ This new (experimental) webapp allows to explore the delicious recipes of the Fr
 
 Take a tour: http://nicolasguillaume.pythonanywhere.com/tour
 
-![capture app](http://nicolasguillaume.pythonanywhere.com/static/tour/2.JPG)
+![capture app](http://nicolasguillaume.pythonanywhere.com/static/tour/1.JPG)
 
 **Packages:**
 

@@ -2,7 +2,7 @@
 
 ![logo](http://lacuisinedannie.20minutes.fr/headerca2.png)
 
-This new (experimental) webapp allows to explore the delicious recipes of the French version of [La Cuisine d'Annie](http://github.com) website:
+This new (experimental) webapp allows to explore the delicious recipes of the French version of [La Cuisine d'Annie](http://lacuisinedannie.20minutes.fr) website:
 
 - Filter recipes by season, dish type, meal, budget and more criteria
 - Discover similar recipes (similar ingredients) across the various dish types
@@ -10,7 +10,13 @@ This new (experimental) webapp allows to explore the delicious recipes of the Fr
 - Discover recommended recipes that you are most likely to enjoy, based on your taste and ratings
 - Discover personalized menus (not implemented yet)
 
-http://nicolasguillaume.pythonanywhere.com/tour
+Take a tour: http://nicolasguillaume.pythonanywhere.com/tour
 
-![capture app](http://lacuisinedannie.20minutes.fr/headerca2.png)
+![capture app](http://nicolasguillaume.pythonanywhere.com/static/tour/2.JPG)
+
+**Packages:**
+
+- Flask framework and Python 2.7
+- Numpy, Pandas, Bokeh
+- Website run on pythonanywhere.com
 

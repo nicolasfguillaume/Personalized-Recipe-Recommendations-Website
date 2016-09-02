@@ -2,7 +2,7 @@
 
 ![logo](http://lacuisinedannie.20minutes.fr/headerca2.png)
 
-This new (experimental) webapp allows to explore the delicious recipes of the French version of La Cuisine d'Annie website:
+This new (experimental) webapp allows to explore the delicious recipes of the French version of [La Cuisine d'Annie](http://github.com) website:
 
 - Filter recipes by season, dish type, meal, budget and more criteria
 - Discover similar recipes (similar ingredients) across the various dish types

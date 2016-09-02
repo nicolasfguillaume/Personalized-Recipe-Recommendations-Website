@@ -17,6 +17,6 @@ Take a tour: http://nicolasguillaume.pythonanywhere.com/tour
 **Packages:**
 
 - Flask framework and Python 2.7
-- Numpy, Pandas, Bokeh
+- Numpy, Pandas, Bokeh, Scikit-learn, NLTK
 - Website hosted and run on pythonanywhere.com
 

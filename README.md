@@ -18,5 +18,5 @@ Take a tour: http://nicolasguillaume.pythonanywhere.com/tour
 
 - Flask framework and Python 2.7
 - Numpy, Pandas, Bokeh
-- Website run on pythonanywhere.com
+- Website hosted and run on pythonanywhere.com
 

@@ -10,7 +10,7 @@ This new (experimental) webapp allows to explore the delicious recipes of the Fr
 - Discover your recommended recipes, based on your taste (ratings)
 - Discover personalized menus (not implemented yet)
 
-Take a tour: http://nicolasguillaume.pythonanywhere.com/tour
+http://cuisine-front-testing.nicolasguillaume.com/
 
 ![capture app](http://nicolasguillaume.pythonanywhere.com/static/tour/1.JPG)
 
